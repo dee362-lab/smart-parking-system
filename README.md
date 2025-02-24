@@ -19,8 +19,8 @@ An IoT-enabled smart parking system that detects parking slot availability using
 - **Software:** Arduino IDE
 
 ## Circuit Diagram
-- [For Gate](gate.png)
-- [For slot](slots.png)
+- [For Gate](circuit/gate.png)
+- [For slot](circuit/slots.png)
 
 ## 🚀 Features  
 ✅ Monitors parking slot availability in real-time  
