@@ -6,7 +6,7 @@
 - [Features](#-features)  
 - [Circuit Diagram](#-circuit-diagram)  
 - [Setup & Installation](#-setup--installation)  
-- [License](#-license)  
+ 
 
 ## 🔍 Overview  
 An IoT-enabled smart parking system that detects parking slot availability using ultrasonic sensors and controls entry using a servo motor. The data is sent to ThingSpeak for real-time cloud monitoring.  
